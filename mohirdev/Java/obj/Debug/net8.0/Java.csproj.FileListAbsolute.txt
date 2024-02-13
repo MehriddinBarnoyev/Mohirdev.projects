@@ -1,0 +1,14 @@
+C:\Users\barno\OneDrive\Desktop\Java\bin\Debug\net8.0\Java.exe
+C:\Users\barno\OneDrive\Desktop\Java\bin\Debug\net8.0\Java.deps.json
+C:\Users\barno\OneDrive\Desktop\Java\bin\Debug\net8.0\Java.runtimeconfig.json
+C:\Users\barno\OneDrive\Desktop\Java\bin\Debug\net8.0\Java.dll
+C:\Users\barno\OneDrive\Desktop\Java\bin\Debug\net8.0\Java.pdb
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.AssemblyInfoInputs.cache
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.AssemblyInfo.cs
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.csproj.CoreCompileInputs.cache
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.dll
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\refint\Java.dll
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.pdb
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\Java.genruntimeconfig.cache
+C:\Users\barno\OneDrive\Desktop\Java\obj\Debug\net8.0\ref\Java.dll
